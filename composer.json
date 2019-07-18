@@ -1,5 +1,5 @@
 {
-  "name": "jbfulgencio/WP-multisite-lost-password-fix",
+  "name": "jbfulgencio/wp-multisite-lost-password-fix",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-only",
   "description": "By default, WordPress Multisite uses the main blog for passwort resets. This plugin enables users to stay in their blog during the whole reset process..",
